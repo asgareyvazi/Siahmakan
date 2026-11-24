@@ -1,0 +1,61 @@
+well,data_subject,availability,note
+SI-006,Daily drilling reports,high,One sheet per well day; date and depth continuous
+SI-006,Depth record (00:00 / 24:00),high,Recorded every DDR
+SI-006,Hole size by day,high,Recorded every DDR (format variants normalised)
+SI-006,Operation codes and hours,high,24 h table balanced to 24 h on >99% of sheets
+SI-006,Bit records,medium,Per-DDR bit stack; 58 of 108 identified runs carry footage
+SI-006,Drilling parameters (WOB/RPM/SPP/flow),medium,"Present on 20-45% of DDRs, not continuous"
+SI-006,Mud properties,high,"Daily MW, PV, YP, gels, chlorides, solids"
+SI-006,Casing / liner specification,high,Cumulative casing table on every DDR
+SI-006,Formation tops,medium,Cumulative table; tops recorded but not always updated
+SI-006,Survey (deviation),none-partial,"Template data only (SI-006, SI-009); partial for SI-008"
+SI-006,Cost / AFE / invoice,none,"No cost field in any of the 1,237 DDR sheets"
+SI-006,Completion equipment details,low,Narrative mentions only; no completion tally
+SI-006,Well test / production data,none,"No rate, pressure or production record supplied"
+SI-006,EOWR / final well report,none,Not supplied
+SI-006,Drilling / completion programme,none,Not supplied
+SI-007,Daily drilling reports,high,One sheet per well day; date and depth continuous
+SI-007,Depth record (00:00 / 24:00),high,Recorded every DDR
+SI-007,Hole size by day,high,Recorded every DDR (format variants normalised)
+SI-007,Operation codes and hours,high,24 h table balanced to 24 h on >99% of sheets
+SI-007,Bit records,medium,Per-DDR bit stack; 58 of 108 identified runs carry footage
+SI-007,Drilling parameters (WOB/RPM/SPP/flow),medium,"Present on 20-45% of DDRs, not continuous"
+SI-007,Mud properties,high,"Daily MW, PV, YP, gels, chlorides, solids"
+SI-007,Casing / liner specification,high,Cumulative casing table on every DDR
+SI-007,Formation tops,medium,Cumulative table; tops recorded but not always updated
+SI-007,Survey (deviation),none-partial,"Template data only (SI-006, SI-009); partial for SI-008"
+SI-007,Cost / AFE / invoice,none,"No cost field in any of the 1,237 DDR sheets"
+SI-007,Completion equipment details,low,Narrative mentions only; no completion tally
+SI-007,Well test / production data,none,"No rate, pressure or production record supplied"
+SI-007,EOWR / final well report,none,Not supplied
+SI-007,Drilling / completion programme,none,Not supplied
+SI-008,Daily drilling reports,high,One sheet per well day; date and depth continuous
+SI-008,Depth record (00:00 / 24:00),high,Recorded every DDR
+SI-008,Hole size by day,high,Recorded every DDR (format variants normalised)
+SI-008,Operation codes and hours,high,24 h table balanced to 24 h on >99% of sheets
+SI-008,Bit records,medium,Per-DDR bit stack; 58 of 108 identified runs carry footage
+SI-008,Drilling parameters (WOB/RPM/SPP/flow),medium,"Present on 20-45% of DDRs, not continuous"
+SI-008,Mud properties,high,"Daily MW, PV, YP, gels, chlorides, solids"
+SI-008,Casing / liner specification,high,Cumulative casing table on every DDR
+SI-008,Formation tops,medium,Cumulative table; tops recorded but not always updated
+SI-008,Survey (deviation),none-partial,"Template data only (SI-006, SI-009); partial for SI-008"
+SI-008,Cost / AFE / invoice,none,"No cost field in any of the 1,237 DDR sheets"
+SI-008,Completion equipment details,low,Narrative mentions only; no completion tally
+SI-008,Well test / production data,none,"No rate, pressure or production record supplied"
+SI-008,EOWR / final well report,none,Not supplied
+SI-008,Drilling / completion programme,none,Not supplied
+SI-009,Daily drilling reports,high,One sheet per well day; date and depth continuous
+SI-009,Depth record (00:00 / 24:00),high,Recorded every DDR
+SI-009,Hole size by day,high,Recorded every DDR (format variants normalised)
+SI-009,Operation codes and hours,high,24 h table balanced to 24 h on >99% of sheets
+SI-009,Bit records,medium,Per-DDR bit stack; 58 of 108 identified runs carry footage
+SI-009,Drilling parameters (WOB/RPM/SPP/flow),medium,"Present on 20-45% of DDRs, not continuous"
+SI-009,Mud properties,high,"Daily MW, PV, YP, gels, chlorides, solids"
+SI-009,Casing / liner specification,high,Cumulative casing table on every DDR
+SI-009,Formation tops,medium,Cumulative table; tops recorded but not always updated
+SI-009,Survey (deviation),none-partial,"Template data only (SI-006, SI-009); partial for SI-008"
+SI-009,Cost / AFE / invoice,none,"No cost field in any of the 1,237 DDR sheets"
+SI-009,Completion equipment details,low,Narrative mentions only; no completion tally
+SI-009,Well test / production data,none,"No rate, pressure or production record supplied"
+SI-009,EOWR / final well report,none,Not supplied
+SI-009,Drilling / completion programme,none,Not supplied

@@ -1,0 +1,46 @@
+well,phase,hours_total,pct_of_total,hours_productive,hours_npt_N,hours_npt_U,hours_untyped
+SI-006,Drilling,1702.0,16.89,1633.5,33.5,34.0,1.0
+SI-006,Trip & Hole Conditioning,1804.5,17.9,1715.0,0.5,89.0,0
+SI-006,Circulation & Fluid Treatment,373.5,3.71,318.5,1.0,54.0,0
+SI-006,Casing & Cementing,1155.5,11.46,1145.5,0,10.0,0
+SI-006,Wellhead & BOP,277.0,2.75,271.0,6.0,0,0
+SI-006,Evaluation & Logging,321.5,3.19,307.5,2.5,11.5,0
+SI-006,Testing & Stimulation,90.0,0.89,90.0,0,0,0
+SI-006,Completion & Intervention,154.0,1.53,148.0,0,6.0,0
+SI-006,Hole Problem,356.5,3.54,43.5,14.5,298.5,0
+SI-006,Rig Service,44.5,0.44,42.0,2.5,0,0
+SI-006,Waiting / Standby,3755.5,37.26,0,1889.5,1866.0,0
+SI-006,Unclassified,44.0,0.44,2.0,0,26.0,16.0
+SI-007,Drilling,2023.5,16.99,1618.0,21.0,384.5,0
+SI-007,Trip & Hole Conditioning,2343.5,19.67,1584.5,7.0,752.0,0
+SI-007,Circulation & Fluid Treatment,392.0,3.29,290.0,0,100.0,2.0
+SI-007,Casing & Cementing,1296.5,10.88,1047.5,0,249.0,0
+SI-007,Wellhead & BOP,376.0,3.16,321.0,42.0,13.0,0
+SI-007,Evaluation & Logging,231.0,1.94,171.0,0,60.0,0
+SI-007,Testing & Stimulation,700.5,5.88,347.0,0,353.5,0
+SI-007,Completion & Intervention,717.0,6.02,642.0,4.0,71.0,0
+SI-007,Hole Problem,1162.5,9.76,56.5,0,1106.0,0
+SI-007,Rig Service,31.5,0.26,26.0,0.5,5.0,0
+SI-007,Waiting / Standby,2587.0,21.72,10.0,2570.5,6.5,0
+SI-007,Unclassified,51.5,0.43,21.0,0,0,30.5
+SI-008,Drilling,1392.0,27.97,1392.0,0,0,0
+SI-008,Trip & Hole Conditioning,1155.0,23.2,1077.0,0,78.0,0
+SI-008,Circulation & Fluid Treatment,365.5,7.34,353.0,0,12.5,0
+SI-008,Casing & Cementing,465.5,9.35,464.0,0,1.5,0
+SI-008,Wellhead & BOP,230.5,4.63,230.5,0,0,0
+SI-008,Evaluation & Logging,522.0,10.49,522.0,0,0,0
+SI-008,Completion & Intervention,248.5,4.99,221.0,0,27.5,0
+SI-008,Hole Problem,52.5,1.05,5.0,0,47.5,0
+SI-008,Rig Service,20.0,0.4,9.0,0,11.0,0
+SI-008,Waiting / Standby,525.0,10.55,0,508.0,17.0,0
+SI-008,Unclassified,1.0,0.02,1.0,0,0,0
+SI-009,Drilling,767.5,29.52,690.0,0,77.5,0
+SI-009,Trip & Hole Conditioning,232.0,8.92,156.0,0,75.0,1.0
+SI-009,Circulation & Fluid Treatment,181.5,6.98,96.0,0,85.5,0
+SI-009,Casing & Cementing,261.5,10.06,107.5,0,150.0,4.0
+SI-009,Wellhead & BOP,78.5,3.02,72.5,0,0,6.0
+SI-009,Completion & Intervention,243.0,9.35,0,0,243.0,0
+SI-009,Hole Problem,643.5,24.75,1.5,0,642.0,0
+SI-009,Rig Service,1.0,0.04,0,0,1.0,0
+SI-009,Waiting / Standby,160.0,6.15,6.0,154.0,0,0
+SI-009,Unclassified,31.5,1.21,1.5,0,15.0,15.0

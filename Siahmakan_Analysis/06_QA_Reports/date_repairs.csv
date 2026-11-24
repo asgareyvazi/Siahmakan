@@ -1,0 +1,4 @@
+well,source_sheet,field,note
+SI-006,6-1 DDR,spud_date,unparseable '44272'
+SI-007,265 DDR SI #07,report_date,unparseable '021-04-2022'
+SI-007,265 DDR SI #07,report_date,DERIVED 2022-04-02 from rig_days=265 (spud 2021-07-12 + 264 d); raw='021-04-2022'

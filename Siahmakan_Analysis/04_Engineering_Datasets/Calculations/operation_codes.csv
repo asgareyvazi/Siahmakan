@@ -1,0 +1,204 @@
+well,code,description,phase,npt_family,hours,pct_of_total,occurrences,hours_P,hours_N,hours_U
+SI-006,11-10,Wait Surface / Contingency,Waiting / Standby,Operations contingency,1834.5,18.2,247,0.0,0.0,1834.5
+SI-006,2-1,Drilling,Drilling,,1364.5,13.54,234,1352.0,12.5,0.0
+SI-006,3-1,Round Trip,Trip & Hole Conditioning,Trip,1024.0,10.16,162,960.0,0.0,64.0
+SI-006,11-6,Wait Service Company,Waiting / Standby,Waiting on service company,828.0,8.22,147,0.0,826.0,2.0
+SI-006,11-3,Wait Rig Contractor,Waiting / Standby,Waiting on rig contractor,695.0,6.9,96,0.0,695.0,0.0
+SI-006,6-9,Dry Test,Casing & Cementing,Well integrity test,360.5,3.58,74,360.5,0.0,0.0
+SI-006,10-3,Stuck Pipe,Hole Problem,Stuck pipe,272.0,2.7,40,19.5,14.5,238.0
+SI-006,4-7,Short Trip,Drilling,Hole conditioning,270.5,2.68,54,238.0,0.0,32.5
+SI-006,3-7,Drill / Clean Out,Trip & Hole Conditioning,Hole conditioning,268.5,2.66,40,247.0,0.0,21.5
+SI-006,4-1,Circulating,Circulation & Fluid Treatment,Circulation,264.0,2.62,85,257.0,0.0,7.0
+SI-006,3-6,Scraping,Trip & Hole Conditioning,Hole conditioning,226.5,2.25,32,226.5,0.0,0.0
+SI-006,6-10,Tie Back,Casing & Cementing,,196.0,1.94,44,196.0,0.0,0.0
+SI-006,11-2,Rig Repair,Waiting / Standby,Rig equipment failure,193.5,1.92,83,0.0,192.0,1.5
+SI-006,6-2,Running Casing,Casing & Cementing,Casing,192.0,1.91,28,192.0,0.0,0.0
+SI-006,6-12,Drill Out,Casing & Cementing,Drill out,156.5,1.55,33,156.5,0.0,0.0
+SI-006,5-3,Coring,Evaluation & Logging,Coring,155.0,1.54,47,155.0,0.0,0.0
+SI-006,3-8,M/U L/D DP,Trip & Hole Conditioning,Trip,151.5,1.5,18,151.5,0.0,0.0
+SI-006,5-5,Logging / TLC,Evaluation & Logging,Logging,148.0,1.47,50,134.0,2.5,11.5
+SI-006,11-4,Wait Procurement,Waiting / Standby,Waiting on procurement,104.0,1.03,14,0.0,104.0,0.0
+SI-006,7-1,N/D N/U BOP,Wellhead & BOP,,93.5,0.93,12,93.5,0.0,0.0
+SI-006,4-5,Condition Fluid,Circulation & Fluid Treatment,,93.0,0.92,17,49.5,0.0,43.5
+SI-006,6-11,Pressure Test,Casing & Cementing,Well integrity test,92.0,0.91,16,92.0,0.0,0.0
+SI-006,3-9,M/U L/D BHA,Trip & Hole Conditioning,Trip,91.0,0.9,20,88.0,0.0,3.0
+SI-006,5-6,Perforation,Testing & Stimulation,Perforation,90.0,0.89,15,90.0,0.0,0.0
+SI-006,7-3,BOP Test,Wellhead & BOP,Wellhead & BOP,83.0,0.82,19,77.0,6.0,0.0
+SI-006,7-4,Wellhead,Wellhead & BOP,,82.5,0.82,12,82.5,0.0,0.0
+SI-006,11-7,Wait Client,Waiting / Standby,Waiting on client,78.0,0.77,10,0.0,54.0,24.0
+SI-006,8-1,Run/Pull Completion,Completion & Intervention,Completion,75.5,0.75,15,75.5,0.0,0.0
+SI-006,10-4,Fishing,Hole Problem,Fishing,57.0,0.57,10,0.0,0.0,57.0
+SI-006,6-6,Plug Back,Casing & Cementing,Cementing problem,47.0,0.47,12,47.0,0.0,0.0
+SI-006,9-2,Slip & Cut,Rig Service,,41.5,0.41,16,40.0,1.5,0.0
+SI-006,4-3,Reaming,Drilling,Hole conditioning,39.0,0.39,36,26.5,10.0,1.5
+SI-006,6-5,WOC,Casing & Cementing,,36.5,0.36,7,36.5,0.0,0.0
+SI-006,6-4,Cementing,Casing & Cementing,,32.5,0.32,10,32.5,0.0,0.0
+SI-006,8-4,Displacing Fluid,Completion & Intervention,,32.5,0.32,7,32.5,0.0,0.0
+SI-006,10-7,Loss Circulation,Hole Problem,Lost circulation,24.0,0.24,3,24.0,0.0,0.0
+SI-006,10-2,Plug/Unplug,Unclassified,,23.0,0.23,5,0.0,0.0,23.0
+SI-006,11-1,Waiting Safety,Waiting / Standby,Safety standby,22.5,0.22,7,0.0,18.5,4.0
+SI-006,6-3,Circ in Casing,Casing & Cementing,,22.0,0.22,8,12.0,0.0,10.0
+SI-006,3-2,Observe Well,Trip & Hole Conditioning,,21.5,0.21,25,21.0,0.0,0.5
+SI-006,8-3,Slickline,Completion & Intervention,,21.5,0.21,10,21.5,0.0,0.0
+SI-006,(blank),(not in legend),Unclassified,,21.0,0.21,6,2.0,0.0,3.0
+SI-006,6-1,Casing Tools,Casing & Cementing,,19.5,0.19,11,19.5,0.0,0.0
+SI-006,8-5,Pressure Test,Completion & Intervention,,18.5,0.18,17,18.5,0.0,0.0
+SI-006,7-2,Dress Neck,Wellhead & BOP,,18.0,0.18,4,18.0,0.0,0.0
+SI-006,5-1,Geo Circulation,Evaluation & Logging,,17.5,0.17,6,17.5,0.0,0.0
+SI-006,3-3,Wearing Bushing,Trip & Hole Conditioning,,16.5,0.16,20,16.0,0.5,0.0
+SI-006,2-3,Connection,Drilling,,16.5,0.16,29,16.5,0.0,0.0
+SI-006,4-2,W&R Tight,Circulation & Fluid Treatment,Hole instability,16.5,0.16,9,12.0,1.0,3.5
+SI-006,1-1,Rig Moving (Up/Down),Drilling,Rig move,11.0,0.11,1,0.0,11.0,0.0
+SI-006,8-8,Kill Well,Completion & Intervention,Well control,6.0,0.06,1,0.0,0.0,6.0
+SI-006,3-5,Prior Csg/Cmt/DST/CBL,Trip & Hole Conditioning,,5.0,0.05,2,5.0,0.0,0.0
+SI-006,10-5,Well Control,Hole Problem,Well control,3.5,0.03,2,0.0,0.0,3.5
+SI-006,9-1,Rig Service,Rig Service,,3.0,0.03,2,2.0,1.0,0.0
+SI-006,5-2,LOT-FIT,Evaluation & Logging,,1.0,0.01,1,1.0,0.0,0.0
+SI-006,6-8,Squeeze Cement,Casing & Cementing,Cementing problem,1.0,0.01,2,1.0,0.0,0.0
+SI-006,2-5,Survey,Drilling,,0.5,0.0,1,0.5,0.0,0.0
+SI-007,3-1,Round Trip,Trip & Hole Conditioning,Trip,1691.5,14.2,221,1064.0,0.0,627.5
+SI-007,2-1,Drilling,Drilling,,1409.0,11.83,130,1398.0,0.0,11.0
+SI-007,11-3,Wait Rig Contractor,Waiting / Standby,Waiting on rig contractor,1082.5,9.09,171,0.0,1081.5,1.0
+SI-007,10-4,Fishing,Hole Problem,Fishing,911.0,7.65,128,15.5,0.0,895.5
+SI-007,11-6,Wait Service Company,Waiting / Standby,Waiting on service company,631.0,5.3,69,0.0,631.0,0.0
+SI-007,11-7,Wait Client,Waiting / Standby,Waiting on client,604.0,5.07,32,0.0,604.0,0.0
+SI-007,8-1,Run/Pull Completion,Completion & Intervention,Completion,447.5,3.76,53,447.5,0.0,0.0
+SI-007,6-12,Drill Out,Casing & Cementing,Drill out,399.5,3.35,49,349.5,0.0,50.0
+SI-007,4-1,Circulating,Circulation & Fluid Treatment,Circulation,344.5,2.89,119,242.5,0.0,100.0
+SI-007,6-2,Running Casing,Casing & Cementing,Casing,289.5,2.43,32,241.5,0.0,48.0
+SI-007,5-6,Perforation,Testing & Stimulation,Perforation,231.5,1.94,27,167.0,0.0,64.5
+SI-007,5-5,Logging / TLC,Evaluation & Logging,Logging,228.5,1.92,31,168.5,0.0,60.0
+SI-007,8-7,Flow Well,Testing & Stimulation,,217.0,1.82,31,36.0,0.0,181.0
+SI-007,8-6,Stim/N2/Gas Lift,Testing & Stimulation,,189.0,1.59,27,81.0,0.0,108.0
+SI-007,11-1,Waiting Safety,Waiting / Standby,Safety standby,178.5,1.5,33,10.0,163.0,5.5
+SI-007,10-1,Milling,Drilling,,166.0,1.39,22,136.0,0.0,30.0
+SI-007,3-7,Drill / Clean Out,Trip & Hole Conditioning,Hole conditioning,160.5,1.35,20,143.0,0.0,17.5
+SI-007,6-9,Dry Test,Casing & Cementing,Well integrity test,160.0,1.34,26,160.0,0.0,0.0
+SI-007,2-4,Side Tracking,Drilling,,160.0,1.34,17,0.0,0.0,160.0
+SI-007,7-1,N/D N/U BOP,Wellhead & BOP,,152.5,1.28,17,148.5,4.0,0.0
+SI-007,3-8,M/U L/D DP,Trip & Hole Conditioning,Trip,147.0,1.23,12,147.0,0.0,0.0
+SI-007,7-3,BOP Test,Wellhead & BOP,Wellhead & BOP,143.5,1.2,28,92.5,38.0,13.0
+SI-007,2-2,Directional Drilling,Drilling,,139.5,1.17,14,0.0,0.0,139.5
+SI-007,6-5,WOC,Casing & Cementing,,136.0,1.14,12,71.0,0.0,65.0
+SI-007,3-6,Scraping,Trip & Hole Conditioning,Hole conditioning,121.5,1.02,16,121.5,0.0,0.0
+SI-007,6-10,Tie Back,Casing & Cementing,,111.0,0.93,13,111.0,0.0,0.0
+SI-007,8-8,Kill Well,Completion & Intervention,Well control,109.0,0.92,16,38.0,0.0,71.0
+SI-007,10-3,Stuck Pipe,Hole Problem,Stuck pipe,103.0,0.86,25,1.0,0.0,102.0
+SI-007,4-7,Short Trip,Drilling,Hole conditioning,99.0,0.83,23,71.0,0.0,28.0
+SI-007,3-9,M/U L/D BHA,Trip & Hole Conditioning,Trip,91.5,0.77,18,68.5,7.0,16.0
+SI-007,8-3,Slickline,Completion & Intervention,,83.5,0.7,15,83.5,0.0,0.0
+SI-007,6-6,Plug Back,Casing & Cementing,Cementing problem,81.0,0.68,8,0.0,0.0,81.0
+SI-007,10-7,Loss Circulation,Hole Problem,Lost circulation,77.5,0.65,12,25.0,0.0,52.5
+SI-007,6-4,Cementing,Casing & Cementing,,73.5,0.62,16,70.5,0.0,3.0
+SI-007,7-4,Wellhead,Wellhead & BOP,,71.5,0.6,13,71.5,0.0,0.0
+SI-007,3-2,Observe Well,Trip & Hole Conditioning,,71.0,0.6,39,36.5,0.0,34.5
+SI-007,10-5,Well Control,Hole Problem,Well control,71.0,0.6,12,15.0,0.0,56.0
+SI-007,8-4,Displacing Fluid,Completion & Intervention,,66.0,0.55,5,66.0,0.0,0.0
+SI-007,5-4,DST / Test / Stimulation,Testing & Stimulation,,63.0,0.53,6,63.0,0.0,0.0
+SI-007,3-5,Prior Csg/Cmt/DST/CBL,Trip & Hole Conditioning,,55.5,0.47,8,0.0,0.0,55.5
+SI-007,4-5,Condition Fluid,Circulation & Fluid Treatment,,47.5,0.4,8,47.5,0.0,0.0
+SI-007,11-2,Rig Repair,Waiting / Standby,Rig equipment failure,43.0,0.36,26,0.0,43.0,0.0
+SI-007,11-4,Wait Procurement,Waiting / Standby,Waiting on procurement,33.0,0.28,4,0.0,33.0,0.0
+SI-007,9-2,Slip & Cut,Rig Service,,31.0,0.26,18,26.0,0.0,5.0
+SI-007,(blank),(not in legend),Unclassified,,30.5,0.26,7,0.0,0.0,0.0
+SI-007,6-13,CBL,Casing & Cementing,Cementing problem,27.5,0.23,7,27.5,0.0,0.0
+SI-007,4-3,Reaming,Drilling,Hole conditioning,22.0,0.18,8,6.0,0.0,16.0
+SI-007,1-1,Rig Moving (Up/Down),Drilling,Rig move,21.0,0.18,1,0.0,21.0,0.0
+SI-007,10-2,Plug/Unplug,Unclassified,,21.0,0.18,4,21.0,0.0,0.0
+SI-007,6-1,Casing Tools,Casing & Cementing,,17.0,0.14,8,15.0,0.0,2.0
+SI-007,11-8,Wait Order/Program,Waiting / Standby,Waiting on programme,15.0,0.13,2,0.0,15.0,0.0
+SI-007,8-5,Pressure Test,Completion & Intervention,,11.0,0.09,3,7.0,4.0,0.0
+SI-007,7-2,Dress Neck,Wellhead & BOP,,8.5,0.07,2,8.5,0.0,0.0
+SI-007,3-3,Wearing Bushing,Trip & Hole Conditioning,,5.0,0.04,9,4.0,0.0,1.0
+SI-007,2-3,Connection,Drilling,,4.5,0.04,3,4.5,0.0,0.0
+SI-007,5-2,LOT-FIT,Evaluation & Logging,,2.5,0.02,2,2.5,0.0,0.0
+SI-007,2-5,Survey,Drilling,,2.5,0.02,3,2.5,0.0,0.0
+SI-007,6-8,Squeeze Cement,Casing & Cementing,Cementing problem,1.0,0.01,1,1.0,0.0,0.0
+SI-007,9-1,Rig Service,Rig Service,,0.5,0.0,1,0.0,0.5,0.0
+SI-007,6-11,Pressure Test,Casing & Cementing,Well integrity test,0.5,0.0,1,0.5,0.0,0.0
+SI-008,2-1,Drilling,Drilling,,1227.0,24.65,134,1227.0,0.0,0.0
+SI-008,3-1,Round Trip,Trip & Hole Conditioning,Trip,639.5,12.85,76,579.5,0.0,60.0
+SI-008,5-3,Coring,Evaluation & Logging,Coring,406.0,8.16,77,406.0,0.0,0.0
+SI-008,11-3,Wait Rig Contractor,Waiting / Standby,Waiting on rig contractor,277.5,5.58,66,0.0,277.5,0.0
+SI-008,11-6,Wait Service Company,Waiting / Standby,Waiting on service company,214.0,4.3,37,0.0,214.0,0.0
+SI-008,6-2,Running Casing,Casing & Cementing,Casing,212.0,4.26,29,212.0,0.0,0.0
+SI-008,3-8,M/U L/D DP,Trip & Hole Conditioning,Trip,205.5,4.13,28,187.5,0.0,18.0
+SI-008,4-7,Short Trip,Drilling,Hole conditioning,154.0,3.09,36,154.0,0.0,0.0
+SI-008,3-7,Drill / Clean Out,Trip & Hole Conditioning,Hole conditioning,149.5,3.0,21,149.5,0.0,0.0
+SI-008,4-2,W&R Tight,Circulation & Fluid Treatment,Hole instability,148.0,2.97,42,147.0,0.0,1.0
+SI-008,4-1,Circulating,Circulation & Fluid Treatment,Circulation,116.0,2.33,60,116.0,0.0,0.0
+SI-008,7-1,N/D N/U BOP,Wellhead & BOP,,115.5,2.32,17,115.5,0.0,0.0
+SI-008,8-3,Slickline,Completion & Intervention,,109.5,2.2,22,109.5,0.0,0.0
+SI-008,8-1,Run/Pull Completion,Completion & Intervention,Completion,108.5,2.18,23,81.0,0.0,27.5
+SI-008,5-5,Logging / TLC,Evaluation & Logging,Logging,103.5,2.08,25,103.5,0.0,0.0
+SI-008,4-5,Condition Fluid,Circulation & Fluid Treatment,,96.0,1.93,27,84.5,0.0,11.5
+SI-008,6-12,Drill Out,Casing & Cementing,Drill out,77.0,1.55,21,77.0,0.0,0.0
+SI-008,3-9,M/U L/D BHA,Trip & Hole Conditioning,Trip,59.5,1.2,16,59.5,0.0,0.0
+SI-008,7-3,BOP Test,Wellhead & BOP,Wellhead & BOP,59.0,1.19,10,59.0,0.0,0.0
+SI-008,6-9,Dry Test,Casing & Cementing,Well integrity test,52.5,1.05,10,52.5,0.0,0.0
+SI-008,6-5,WOC,Casing & Cementing,,45.0,0.9,6,43.5,0.0,1.5
+SI-008,3-6,Scraping,Trip & Hole Conditioning,Hole conditioning,43.0,0.86,6,43.0,0.0,0.0
+SI-008,6-4,Cementing,Casing & Cementing,,37.5,0.75,15,37.5,0.0,0.0
+SI-008,10-3,Stuck Pipe,Hole Problem,Stuck pipe,37.5,0.75,2,0.0,0.0,37.5
+SI-008,7-4,Wellhead,Wellhead & BOP,,36.5,0.73,12,36.5,0.0,0.0
+SI-008,8-5,Pressure Test,Completion & Intervention,,30.5,0.61,18,30.5,0.0,0.0
+SI-008,6-1,Casing Tools,Casing & Cementing,,25.5,0.51,11,25.5,0.0,0.0
+SI-008,3-3,Wearing Bushing,Trip & Hole Conditioning,,24.5,0.49,30,24.5,0.0,0.0
+SI-008,7-2,Dress Neck,Wellhead & BOP,,19.5,0.39,7,19.5,0.0,0.0
+SI-008,3-2,Observe Well,Trip & Hole Conditioning,,19.5,0.39,20,19.5,0.0,0.0
+SI-008,9-2,Slip & Cut,Rig Service,,19.0,0.38,9,8.0,0.0,11.0
+SI-008,11-2,Rig Repair,Waiting / Standby,Rig equipment failure,14.0,0.28,12,0.0,5.0,9.0
+SI-008,6-3,Circ in Casing,Casing & Cementing,,14.0,0.28,9,14.0,0.0,0.0
+SI-008,3-5,Prior Csg/Cmt/DST/CBL,Trip & Hole Conditioning,,14.0,0.28,3,14.0,0.0,0.0
+SI-008,10-7,Loss Circulation,Hole Problem,Lost circulation,10.5,0.21,3,1.5,0.0,9.0
+SI-008,11-4,Wait Procurement,Waiting / Standby,Waiting on procurement,10.0,0.2,2,0.0,10.0,0.0
+SI-008,5-1,Geo Circulation,Evaluation & Logging,,9.0,0.18,4,9.0,0.0,0.0
+SI-008,11-1,Waiting Safety,Waiting / Standby,Safety standby,8.0,0.16,4,0.0,0.0,8.0
+SI-008,4-3,Reaming,Drilling,Hole conditioning,5.5,0.11,3,5.5,0.0,0.0
+SI-008,4-4,Mixing Mud,Circulation & Fluid Treatment,,5.5,0.11,1,5.5,0.0,0.0
+SI-008,2-5,Survey,Drilling,,4.0,0.08,5,4.0,0.0,0.0
+SI-008,5-2,LOT-FIT,Evaluation & Logging,,3.5,0.07,3,3.5,0.0,0.0
+SI-008,10-5,Well Control,Hole Problem,Well control,3.0,0.06,1,3.0,0.0,0.0
+SI-008,6-11,Pressure Test,Casing & Cementing,Well integrity test,2.0,0.04,2,2.0,0.0,0.0
+SI-008,1-1,Rig Moving (Up/Down),Drilling,Rig move,1.5,0.03,1,1.5,0.0,0.0
+SI-008,11-7,Wait Client,Waiting / Standby,Waiting on client,1.5,0.03,1,0.0,1.5,0.0
+SI-008,10-6,Washout,Hole Problem,Hole instability,1.5,0.03,2,0.5,0.0,1.0
+SI-008,9-1,Rig Service,Rig Service,,1.0,0.02,1,1.0,0.0,0.0
+SI-008,2-6,(not in legend),Unclassified,,1.0,0.02,2,1.0,0.0,0.0
+SI-009,2-1,Drilling,Drilling,,660.0,25.38,62,655.0,0.0,5.0
+SI-009,10-5,Well Control,Hole Problem,Well control,525.5,20.21,67,0.0,0.0,525.5
+SI-009,8-8,Kill Well,Completion & Intervention,Well control,243.0,9.35,26,0.0,0.0,243.0
+SI-009,3-1,Round Trip,Trip & Hole Conditioning,Trip,176.5,6.79,48,102.5,0.0,73.0
+SI-009,4-1,Circulating,Circulation & Fluid Treatment,Circulation,142.0,5.46,41,56.5,0.0,85.5
+SI-009,11-3,Wait Rig Contractor,Waiting / Standby,Waiting on rig contractor,105.0,4.04,19,0.0,105.0,0.0
+SI-009,6-12,Drill Out,Casing & Cementing,Drill out,86.0,3.31,14,32.0,0.0,54.0
+SI-009,10-3,Stuck Pipe,Hole Problem,Stuck pipe,82.0,3.15,11,1.5,0.0,80.5
+SI-009,4-3,Reaming,Drilling,Hole conditioning,70.5,2.71,12,12.5,0.0,58.0
+SI-009,6-5,WOC,Casing & Cementing,,57.0,2.19,7,16.0,0.0,37.0
+SI-009,6-2,Running Casing,Casing & Cementing,Casing,45.0,1.73,5,45.0,0.0,0.0
+SI-009,10-7,Loss Circulation,Hole Problem,Lost circulation,36.0,1.38,8,0.0,0.0,36.0
+SI-009,4-7,Short Trip,Drilling,Hole conditioning,34.0,1.31,9,19.5,0.0,14.5
+SI-009,6-6,Plug Back,Casing & Cementing,Cementing problem,32.5,1.25,10,0.0,0.0,32.5
+SI-009,7-1,N/D N/U BOP,Wellhead & BOP,,30.0,1.15,4,30.0,0.0,0.0
+SI-009,3-8,M/U L/D DP,Trip & Hole Conditioning,Trip,24.5,0.94,4,24.5,0.0,0.0
+SI-009,11-6,Wait Service Company,Waiting / Standby,Waiting on service company,23.0,0.88,5,0.0,23.0,0.0
+SI-009,7-4,Wellhead,Wellhead & BOP,,22.5,0.87,8,19.5,0.0,0.0
+SI-009,11-7,Wait Client,Waiting / Standby,Waiting on client,22.0,0.85,3,0.0,22.0,0.0
+SI-009,6-8,Squeeze Cement,Casing & Cementing,Cementing problem,21.5,0.83,10,0.0,0.0,21.5
+SI-009,4-2,W&R Tight,Circulation & Fluid Treatment,Hole instability,20.5,0.79,6,20.5,0.0,0.0
+SI-009,3-9,M/U L/D BHA,Trip & Hole Conditioning,Trip,20.0,0.77,10,20.0,0.0,0.0
+SI-009,4-5,Condition Fluid,Circulation & Fluid Treatment,,19.0,0.73,4,19.0,0.0,0.0
+SI-009,10-2,Plug/Unplug,Unclassified,,16.0,0.62,6,1.0,0.0,15.0
+SI-009,6-4,Cementing,Casing & Cementing,,15.0,0.58,6,10.0,0.0,5.0
+SI-009,7-3,BOP Test,Wellhead & BOP,Wellhead & BOP,15.0,0.58,4,15.0,0.0,0.0
+SI-009,(blank),(not in legend),Unclassified,,15.0,0.58,8,0.0,0.0,0.0
+SI-009,7-2,Dress Neck,Wellhead & BOP,,11.0,0.42,3,8.0,0.0,0.0
+SI-009,3-2,Observe Well,Trip & Hole Conditioning,,9.0,0.35,9,7.0,0.0,2.0
+SI-009,11-2,Rig Repair,Waiting / Standby,Rig equipment failure,9.0,0.35,7,6.0,3.0,0.0
+SI-009,6-1,Casing Tools,Casing & Cementing,,3.5,0.13,2,3.5,0.0,0.0
+SI-009,2-5,Survey,Drilling,,3.0,0.12,3,3.0,0.0,0.0
+SI-009,3-3,Wearing Bushing,Trip & Hole Conditioning,,2.0,0.08,3,2.0,0.0,0.0
+SI-009,6-3,Circ in Casing,Casing & Cementing,,1.0,0.04,1,1.0,0.0,0.0
+SI-009,11-1,Waiting Safety,Waiting / Standby,Safety standby,1.0,0.04,1,0.0,1.0,0.0
+SI-009,9-2,Slip & Cut,Rig Service,,1.0,0.04,1,0.0,0.0,1.0
+SI-009,1-2,(not in legend),Unclassified,,0.5,0.02,1,0.5,0.0,0.0

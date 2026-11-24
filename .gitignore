@@ -1,0 +1,4 @@
+# Python bytecode / caches produced when running the analysis scripts
+__pycache__/
+*.py[cod]
+.venv/

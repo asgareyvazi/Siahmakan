@@ -1,0 +1,19 @@
+well,gap,impact,severity
+SI-006,Well trajectory / directional survey,"TVD, displacement, DLS and minimum-curvature recalculation cannot be produced. All depth statements in this report are measured depth (MD).",High
+SI-006,"Cost, AFE and invoice records",No cost or lifecycle-economics analysis is possible. The economics slide of the presentation reports duration and data absence instead of currency figures.,High
+SI-006,End-of-well report / final well report,"Final casing tally, cement volumes and completion configuration are taken from the last DDR rather than an approved final report.",Medium
+SI-006,Drilling and completion programmes,Plan-versus-actual comparison limited to planned TD and planned duration fields recorded in the DDR header.,Medium
+SI-007,Well trajectory / directional survey,"TVD, displacement, DLS and minimum-curvature recalculation cannot be produced. All depth statements in this report are measured depth (MD).",High
+SI-007,"Cost, AFE and invoice records",No cost or lifecycle-economics analysis is possible. The economics slide of the presentation reports duration and data absence instead of currency figures.,High
+SI-007,End-of-well report / final well report,"Final casing tally, cement volumes and completion configuration are taken from the last DDR rather than an approved final report.",Medium
+SI-007,Drilling and completion programmes,Plan-versus-actual comparison limited to planned TD and planned duration fields recorded in the DDR header.,Medium
+SI-008,Well trajectory / directional survey,"TVD, displacement, DLS and minimum-curvature recalculation cannot be produced. All depth statements in this report are measured depth (MD).",High
+SI-008,"Cost, AFE and invoice records",No cost or lifecycle-economics analysis is possible. The economics slide of the presentation reports duration and data absence instead of currency figures.,High
+SI-008,End-of-well report / final well report,"Final casing tally, cement volumes and completion configuration are taken from the last DDR rather than an approved final report.",Medium
+SI-008,Drilling and completion programmes,Plan-versus-actual comparison limited to planned TD and planned duration fields recorded in the DDR header.,Medium
+SI-009,Well trajectory / directional survey,"TVD, displacement, DLS and minimum-curvature recalculation cannot be produced. All depth statements in this report are measured depth (MD).",High
+SI-009,"Cost, AFE and invoice records",No cost or lifecycle-economics analysis is possible. The economics slide of the presentation reports duration and data absence instead of currency figures.,High
+SI-009,End-of-well report / final well report,"Final casing tally, cement volumes and completion configuration are taken from the last DDR rather than an approved final report.",Medium
+SI-009,Drilling and completion programmes,Plan-versus-actual comparison limited to planned TD and planned duration fields recorded in the DDR header.,Medium
+SI-006,DDR reporting gap 2021-07-04 to 2021-07-06,"1 calendar day(s) with no daily report; the depth-time curve is drawn as a dashed break, not interpolated.",Low
+SI-006,DDR reporting gap 2021-09-12 to 2021-09-14,"1 calendar day(s) with no daily report; the depth-time curve is drawn as a dashed break, not interpolated.",Low
